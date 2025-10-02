@@ -147,7 +147,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Your Name - [GitHub](https://github.com/yourusername)
+Shubhamanand2026 - [GitHub](https://github.com/shubhamanand2026)
 
 ## 🙏 Acknowledgments
 
